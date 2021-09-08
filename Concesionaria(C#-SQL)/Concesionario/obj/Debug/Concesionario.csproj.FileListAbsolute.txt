@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\bin\Debug\Concesionario.exe.config
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\bin\Debug\Concesionario.exe
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\bin\Debug\Concesionario.pdb
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\obj\Debug\Concesionario.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\obj\Debug\Concesionario.Concesionario.resources
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\obj\Debug\Concesionario.Properties.Resources.resources
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\obj\Debug\Concesionario.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\obj\Debug\Concesionario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\obj\Debug\Concesionario.exe
+C:\Users\Usuario\Documents\PROYECTOS\Concesionaria(C#-SQL)\Concesionario\obj\Debug\Concesionario.pdb
